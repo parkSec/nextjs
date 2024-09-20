@@ -1,0 +1,8 @@
+https://console.firebase.google.com/project/nextjs-4cca1/firestore/databases/-default-/data?hl=ko
+https://velog.io/@lkwer/NextJS%EC%97%90-Firebase-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0
+https://velog.io/@tlsakch510/Next.js-FirebaseFirestore%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0#env-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+https://www.youtube.com/results?search_query=nextjs+firebase+npm
+https://wani-coding.tistory.com/133
+
+liveblocks
+https://liveblocks.io/examples/collaborative-text-editor-advanced/nextjs-yjs-blocknote-advanced
